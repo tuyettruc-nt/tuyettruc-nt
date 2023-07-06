@@ -1,5 +1,4 @@
-###👋 About Me
-
+<h3 align="left">👋 About Me</h3>
 * 💳 My Full name is **Ngô Thị Tuyết Trúc**
 * 🏫 I’m currently the third year student at **FPT University - Ho Chi Minh City Campus**
 * 📝 My major is **Software Engineering**
