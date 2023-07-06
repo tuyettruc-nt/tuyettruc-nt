@@ -1,17 +1,12 @@
-### Hi there 👋
+### About Me 👋
 
-<!--
-**tuyettruc-nt/tuyettruc-nt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 💳 My Full name is **Ngô Thị Tuyết Trúc**
-- 🏫 I’m currently the third year student at **FPT University - Ho Chi Minh City Campus**
-- 📝 My major is **Software Engineering**
-- 🤔 I'm a newbie in coding  
-- 😄 I'm interested in coding, photography, reading books 
-- 😊 My quote is: **"Set your target and keep trying until you reach it"**
-- ⚡ Fun fact: When encounter a problem 👉 greet it with a smile 👉 strive to discover a solution
+* 💳 My Full name is **Ngô Thị Tuyết Trúc**
+* 🏫 I’m currently the third year student at **FPT University - Ho Chi Minh City Campus**
+* 📝 My major is **Software Engineering**
+* 🤔 I'm a newbie in coding  
+* 😄 I'm interested in coding, photography, reading books 
+* 😊 My quote is: **"Set your target and keep trying until you reach it"**
+* ⚡ Fun fact: When encounter a problem 👉 greet it with a smile 👉 strive to discover a solution
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
